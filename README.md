@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# NLG-DualEval
-=======
 ## A Dual-Perspective NLG Meta-Evaluation Framework with Automatic Benchmark and Better Interpretability
 
 This is the official repository for our ACL 2025 paper [A Dual-Perspective NLG Meta-Evaluation Framework with Automatic Benchmark and Better Interpretability](https://aclanthology.org/2025.acl-long.1327.pdf).
@@ -67,4 +64,3 @@ Our default setting is a 1–10 scoring range, while other formats are also supp
     ISBN = "979-8-89176-251-0"
 }
 ```
->>>>>>> ff50e34 (Initial commit)
